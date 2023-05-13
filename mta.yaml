@@ -39,7 +39,7 @@ modules:
       target-path: resources/
 - name: books
   type: html5
-  path: books
+  path: app/inventoryui
   build-parameters:
     build-result: dist
     builder: custom
